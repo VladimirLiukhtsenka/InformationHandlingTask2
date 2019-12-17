@@ -1,0 +1,186 @@
+2019-12-13 17:00:51.448 [main] 3254 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added l
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added l
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added b
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added e
+2019-12-13 17:00:51.468 [main] 3274 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added o
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added f
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added a
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added p
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added a
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added g
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added e
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added w
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added h
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added e
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added n
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added l
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added o
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added o
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added k
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added i
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added n
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added g
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added a
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added t
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added i
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added t
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added s
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added l
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added a
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added y
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added o
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added u
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added t
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added .
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added .
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.478 [main] 3284 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added .
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.TextParser - TextComposite{level=TEXT} added TextComposite{level=PARAGRAPH}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.ParagraphParser - TextComposite{level=PARAGRAPH} added TextComposite{level=SENTENCE}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added B
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added y
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added e
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SentenceParser - TextComposite{level=SENTENCE} added TextComposite{level=LEXEME}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added б
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added а
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added н
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added д
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added е
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added р
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added л
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added о
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added г
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added и
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.LexemeParser - TextComposite{level=LEXEME} added TextComposite{level=SYMBOL}
+2019-12-13 17:00:51.488 [main] 3294 INFO  com.liukhtenko.informationHandling.parser.SymbolParser - TextComposite{level=SYMBOL} added .
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: it
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: has
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: survived
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: not
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: only
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: five
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: centuries
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: but
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: also
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: the
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: leap
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: into
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: electronictype
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: setting
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: remaining
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: essentially
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: unchanged
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - it added 3 times
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: was
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: popularised
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: in
+2019-12-13 17:00:51.498 [main] 3304 INFO  com.liukhtenko.informationHandling.logic.TextLogic - the added 3 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: динамо
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: рига
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: with
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - the added 4 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: release
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: of
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: letraset
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: sheets
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: containing
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: lorem
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: ipsum
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: passages
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: and
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: morerecently
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - with added 3 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: desktop
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: publishing
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: software
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: like
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: aldus
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: pagemaker
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: faclon9
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: includingversions
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - of added 3 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - lorem added 3 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - ipsum added 3 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - it added 4 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: is
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: a
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: long
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - a added 3 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: b
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: established
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: fact
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: that
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - a added 4 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: reader
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: will
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: be
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: distracted
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: by
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - the added 5 times
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: readablecontent
+2019-12-13 17:00:51.508 [main] 3314 INFO  com.liukhtenko.informationHandling.logic.TextLogic - of added 4 times
+2019-12-13 17:00:51.518 [main] 3324 INFO  com.liukhtenko.informationHandling.logic.TextLogic - a added 5 times
+2019-12-13 17:00:51.518 [main] 3324 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: page
+2019-12-13 17:00:51.518 [main] 3324 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: when
+2019-12-13 17:00:51.518 [main] 3324 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: looking
+2019-12-13 17:00:51.518 [main] 3324 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: at
+2019-12-13 17:00:51.518 [main] 3324 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: its
+2019-12-13 17:00:51.518 [main] 3324 INFO  com.liukhtenko.informationHandling.logic.TextLogic - Added new word: layout

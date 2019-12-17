@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="OrbTest">
+    <test name="All tests">
+        <classes>
+            <class name="com.liukhtenko.informatiohandling.logic.TextLogicTest"/>
+            <class name="com.liukhtenko.informatiohandling.parser.AllParserTest"/>
+            <class name="com.liukhtenko.informatiohandling.reader.DataReaderTest"/>
+        </classes>
+    </test>
+</suite>
