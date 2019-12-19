@@ -1,6 +1,6 @@
-package com.liukhtenko.informatioHandling.reader;
+package com.liukhtenko.informatiohandling.reader;
 
-import com.liukhtenko.informationhandling.exeption.CustomExeption;
+import com.liukhtenko.informationhandling.exeption.CustomException;
 import com.liukhtenko.informationhandling.reader.DataReader;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
@@ -8,7 +8,6 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class DataReaderTest {
-
     private DataReader dataReader;
 
     @BeforeClass
@@ -22,7 +21,7 @@ public class DataReaderTest {
     }
 
     @Test
-    public void readTestTrue() throws CustomExeption {
+    public void readTestTrue() throws CustomException {
         String expected = "    It has survived - not only (five) centuries, but also the leap into electronictype setting, " +
                 "remaining essentially unchanged. It was popularised in the “Динамо” (Рига)with the release of Letraset sheets " +
                 "containing Lorem Ipsum passages, and morerecently with desktop publishing software like Aldus PageMaker Faclon9 " +

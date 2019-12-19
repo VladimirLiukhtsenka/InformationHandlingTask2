@@ -1,10 +1,10 @@
 package com.liukhtenko.informationhandling.entity;
 
-import com.liukhtenko.informationhandling.exeption.CustomExeption;
+import com.liukhtenko.informationhandling.exeption.CustomException;
 
 public interface Component {
     String operation();
-    void add(Component c) throws CustomExeption;
-    void remove(Component c) throws CustomExeption;
-    Component getChild (int index) throws CustomExeption;
+    void add(Component c) throws CustomException;
+    void remove(Component c) throws CustomException;
+    Component getChild (int index) throws CustomException;
 }

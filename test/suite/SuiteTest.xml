@@ -2,9 +2,10 @@
 <suite name ="OrbTest">
     <test name="All tests">
         <classes>
-            <class name="com.liukhtenko.informatioHandling.logic.TextLogicTest"/>
-            <class name="com.liukhtenko.informatioHandling.parser.AllParserTest"/>
-            <class name="com.liukhtenko.informatioHandling.reader.DataReaderTest"/>
+            <class name="com.liukhtenko.informatiohandling.logic.TextLogicTest"/>
+            <class name="com.liukhtenko.informatiohandling.parser.AllParserTest"/>
+            <class name="com.liukhtenko.informatiohandling.reader.DataReaderTest"/>
+            <class name="com.liukhtenko.informatiohandling.writer.CustomWriterTest"/>
         </classes>
     </test>
 </suite>

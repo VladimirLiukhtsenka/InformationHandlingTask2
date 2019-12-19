@@ -1,8 +1,8 @@
-package com.liukhtenko.informatioHandling.logic;
+package com.liukhtenko.informatiohandling.logic;
 
 import com.liukhtenko.informationhandling.entity.TextComposite;
 import com.liukhtenko.informationhandling.entity.TextLevel;
-import com.liukhtenko.informationhandling.exeption.CustomExeption;
+import com.liukhtenko.informationhandling.exeption.CustomException;
 import com.liukhtenko.informationhandling.logic.TextLogic;
 import com.liukhtenko.informationhandling.parser.TextParser;
 import com.liukhtenko.informationhandling.reader.DataReader;
@@ -21,7 +21,7 @@ public class TextLogicTest {
     private TextLogic textLogic;
 
     @BeforeMethod
-    public void setup() throws CustomExeption {
+    public void setup() throws CustomException {
         dataReader = new DataReader();
         String text = dataReader.read();
         textComposite = new TextComposite(TextLevel.TEXT);
@@ -39,7 +39,7 @@ public class TextLogicTest {
     }
 
     @Test
-    public void sortParagraphsByCountSentenceTest() {
+    public void sortParagraphsByCountSentenceTest() throws CustomException {
         String actual = "\tIt is a established fact that a reader will be of a page when looking at its layout... \n" +
                 "\tBye бандерлоги. \n" +
                 "\tIt has survived - not only (five) centuries, but also the leap into electronictype setting, " +
@@ -54,7 +54,7 @@ public class TextLogicTest {
     }
 
     @Test
-    public void sentenceWithLongestWordTest() throws CustomExeption {
+    public void sentenceWithLongestWordTest() throws CustomException {
         String actual = "It was popularised in the Динамо (Рига)with the release of Letraset sheets containing Lorem Ipsum passages, " +
                 "and morerecently with desktop publishing software like Aldus PageMaker Faclon9 includingversions of Lorem Ipsum! ";
         String expected = textLogic.sentenceWithLongestWord(textComposite);
@@ -62,9 +62,9 @@ public class TextLogicTest {
     }
 
     @Test
-    public void countWordsTest() {
+    public void countWordsTest() throws CustomException {
         String s = "This sentence for test Test.";
-        TextComposite textComposite = new TextComposite(TextLevel.LEXEME);
+        TextComposite textComposite = new TextComposite(TextLevel.TEXT);
         textParser.handleRequest(textComposite, s);
         Map<String, Integer> actual = new HashMap<>();
         actual.put("sentence", 1);
@@ -76,7 +76,7 @@ public class TextLogicTest {
     }
 
     @Test
-    public void deleteSentenceTest() {
+    public void deleteSentenceTest() throws CustomException {
         String actual = "It was popularised in the Динамо (Рига)with the release of Letraset sheets containing Lorem Ipsum passages, " +
                 "and morerecently with desktop publishing software like Aldus PageMaker Faclon9 includingversions of Lorem Ipsum! ";
         String expected = textLogic.deleteSentence(textComposite, 30);

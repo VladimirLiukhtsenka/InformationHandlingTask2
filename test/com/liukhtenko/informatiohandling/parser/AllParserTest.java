@@ -1,9 +1,9 @@
-package com.liukhtenko.informatioHandling.parser;
+package com.liukhtenko.informatiohandling.parser;
 
 import com.liukhtenko.informationhandling.entity.Component;
 import com.liukhtenko.informationhandling.entity.TextComposite;
 import com.liukhtenko.informationhandling.entity.TextLevel;
-import com.liukhtenko.informationhandling.exeption.CustomExeption;
+import com.liukhtenko.informationhandling.exeption.CustomException;
 import com.liukhtenko.informationhandling.parser.TextParser;
 import com.liukhtenko.informationhandling.reader.DataReader;
 import org.testng.Assert;
@@ -18,7 +18,7 @@ public class AllParserTest {
     private TextParser textParser;
 
     @BeforeClass
-    public void setup() throws CustomExeption {
+    public void setup() throws CustomException {
         dataReader = new DataReader();
         String text = dataReader.read();
         textComposite = new TextComposite(TextLevel.TEXT);

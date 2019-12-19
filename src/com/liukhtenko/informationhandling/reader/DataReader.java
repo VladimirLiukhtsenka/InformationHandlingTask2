@@ -1,6 +1,6 @@
 package com.liukhtenko.informationhandling.reader;
 
-import com.liukhtenko.informationhandling.exeption.CustomExeption;
+import com.liukhtenko.informationhandling.exeption.CustomException;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -15,12 +15,12 @@ public class DataReader {
     public DataReader() {
     }
 
-    public String read() throws CustomExeption {
+    public String read() throws CustomException {
         List<String> list;
         try (Stream<String> stream = Files.lines(Paths.get(DEFAULT_PATH))) {
             list = stream.collect(Collectors.toList());
         } catch (IOException e) {
-            throw new CustomExeption("File cannot be read");
+            throw new CustomException("File cannot be read");
         }
         StringBuilder stringBuilder = new StringBuilder();
         for (String s : list) {

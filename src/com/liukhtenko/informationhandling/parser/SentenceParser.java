@@ -1,6 +1,5 @@
 package com.liukhtenko.informationhandling.parser;
 
-
 import com.liukhtenko.informationhandling.entity.TextComposite;
 import com.liukhtenko.informationhandling.entity.TextLevel;
 import org.apache.logging.log4j.Level;

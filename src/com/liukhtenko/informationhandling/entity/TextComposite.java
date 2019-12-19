@@ -65,7 +65,8 @@ public class TextComposite implements Component {
 
     @Override
     public String toString() {
-        return "TextComposite{" +
-                "level=" + level+'}';
+        StringBuilder sb = new StringBuilder();
+        sb.append("TextComposite{\"level=").append(level).append("}");
+        return sb.toString();
     }
 }

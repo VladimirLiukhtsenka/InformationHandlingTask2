@@ -1,6 +1,6 @@
 package com.liukhtenko.informationhandling.entity;
 
-import com.liukhtenko.informationhandling.exeption.CustomExeption;
+import com.liukhtenko.informationhandling.exeption.CustomException;
 
 public class Punctuation implements Component {
     private char punctuation;
@@ -15,18 +15,18 @@ public class Punctuation implements Component {
     }
 
     @Override
-    public void add(Component c) throws CustomExeption {
-        throw new CustomExeption("Unable to add component " + c + "to leaf");
+    public void add(Component c) throws CustomException {
+        throw new CustomException("Unable to add component " + c + " to leaf");
     }
 
     @Override
-    public void remove(Component c) throws CustomExeption {
-        throw new CustomExeption("Unable to remove component " + c + "from leaf");
+    public void remove(Component c) throws CustomException {
+        throw new CustomException("Unable to remove component " + c + " from leaf");
     }
 
     @Override
-    public Component getChild(int index) throws CustomExeption {
-        throw new CustomExeption("Unable to get child from leaf");
+    public Component getChild(int index) throws CustomException {
+        throw new CustomException("Unable to get child from leaf");
     }
 
     public char getPunctuation() {
@@ -39,8 +39,12 @@ public class Punctuation implements Component {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
         Punctuation that = (Punctuation) o;
         return punctuation == that.punctuation;
     }
